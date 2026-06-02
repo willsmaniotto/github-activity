@@ -1,5 +1,7 @@
 package main
 
+// Reference: https://roadmap.sh/projects/github-user-activity
+
 import (
 	"encoding/json"
 	"fmt"
